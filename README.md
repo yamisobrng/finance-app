@@ -1,4 +1,4 @@
-Task Tacker cli app
+Task Tacker cli app project by https://roadmap.sh/projects/task-tracker
 commands:
   add
   update
